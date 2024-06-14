@@ -1,0 +1,60 @@
+.container {
+    width: 500px;
+    height: 500px;
+    border: 2px solid black;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    background-color: rebeccapurple;
+
+}
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+
+h1 {
+    margin-top: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    text-size-adjust: large;
+    margin-top: 50px;
+}
+
+.game-container {
+    margin-top: 50px;
+}
+
+/* .game-container {
+    margin-bottom: 20px;
+}
+
+.guess-field {
+    padding: 8px;
+    margin-right: 10px;
+}
+
+.guess-submit {
+    padding: 8px 15px;
+    cursor: pointer;
+}
+
+.result-container {
+    display: none;
+    margin-top: 20px;
+}
+
+.message {
+    font-weight: bold;
+}
+
+.attempts {
+    margin-top: 10px;
+} */
+*/
